@@ -1,0 +1,33 @@
+
+/* Title style */
+h1 {
+    font-size: 2.5rem;
+    text-align: center;
+    text-shadow: 0 2px 5px rgba(0, 0, 0, 0.4);
+  }
+  
+  /* Button style */
+  .get-started-button {
+    padding: 12px 24px;
+    font-size: 1rem;
+    background-color: #4a90e2;
+    border: none;
+    border-radius: 6px;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .get-started-button:hover {
+    background-color: #357ab8;
+  }
+  
+  /* Footer style fixed to bottom */
+  .footer {
+    position: absolute;
+    bottom: 10px;
+    font-size: 0.85rem;
+    color: #ccc;
+    text-align: center;
+    width: 100%;
+  }
